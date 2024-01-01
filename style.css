@@ -259,11 +259,59 @@ body {
 }
 /*************animations*******************/
 @keyframes move4 {
+  10% {
+    color: black;
+  }
+  15% {
+    color: darkkhaki;
+  }
+  20% {
+    color: black;
+  }
+  25% {
+    color: darkkhaki;
+  }
+  30% {
+    color: black;
+  }
+  35% {
+    color: darkkhaki;
+  }
+  40% {
+    color: black;
+  }
+  45% {
+    color: darkkhaki;
+  }
   50% {
     left: 50%;
     opacity: 1;
     font-size: 2.5rem;
+    color: black;
+  }
+  55% {
     color: darkkhaki;
+  }
+  60% {
+    color: black;
+  }
+  65% {
+    color: darkkhaki;
+  }
+  70% {
+    color: black;
+  }
+  75% {
+    color: darkkhaki;
+  }
+  80% {
+    color: black;
+  }
+  85% {
+    color: darkkhaki;
+  }
+  90% {
+    color: black;
   }
   100% {
     left: 140%;
